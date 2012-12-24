@@ -6,7 +6,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="index.php">Catalyst 4 Success</a>
+          <a class="brand" href="index.php">
+	  	<img src="logo.png" alt="logo" height="42" />
+		Catalyst 4 Success
+	  </a>
           <div class="nav-collapse">
             <ul class="nav">
 	    	<?php
