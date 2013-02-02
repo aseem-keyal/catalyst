@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
           </a>
           <a class="brand" href="index.php">
-	  	<img src="logo.png" alt="logo" height="42" />
+	 	<img src="assets/img/logo.png" alt="logo" style="height: 32px;"/>
 		Catalyst 4 Success
 	  </a>
           <div class="nav-collapse">
@@ -16,8 +16,8 @@
 	   	$page = $_SERVER['REQUEST_URI'];
 	   	?>
               <li <?php if ($page == '/catalyst/index.php' or $page == NULL){ echo 'class="active"'; } ?>><a href="index.php"><i class="icon-home"></i> Home</a></li>
-              <li <?php if ($page == '/catalyst/about.php'){ echo 'class="active"'; } ?>><a href="about.php"><i class="icon-briefcase"></i> About</a></li>
-              <li <?php if ($page == '/catalyst/contact.php'){ echo 'class="active"'; } ?>><a href="contact.php"><i class="icon-comment"></i> Contact</a></li>
+              <li <?php if ($page == '/catalyst/about/about.php'){ echo 'class="active"'; } ?>><a href="about.php"><i class="icon-briefcase"></i> About</a></li>
+              <li <?php if ($page == '/catalyst/contact.php'){ echo 'class="active"'; } ?>><a href="calendar.php"><i class="icon-calendar"></i> Calendar</a></li>
            </ul>
 	  </div><!--/.nav-collapse -->
         </div>
