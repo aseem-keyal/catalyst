@@ -13,7 +13,7 @@
     <div class="container-fluid">
       <div class="row-fluid">
 	<div class="span8">
-	  <div class="hero-unit">
+	  <div class="hero-unit" style="background-image:url('assets/img/logo.png'); background-repeat:no-repeat; background-position:right bottom;">
             <h1>Catalyst for Success</h1>
 	    <br>
             <p>With an element of chemistry and a touch of magic, a future scientist is born.</p>
