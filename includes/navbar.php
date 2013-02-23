@@ -17,6 +17,7 @@
 	   	?>
               <li <?php if ($page == '/catalyst/index.php' or $page == NULL){ echo 'class="active"'; } ?>><a href="index.php"><i class="icon-home"></i> Home</a></li>
               <li <?php if ($page == '/catalyst/about/about.php'){ echo 'class="active"'; } ?>><a href="about.php"><i class="icon-briefcase"></i> About</a></li>
+              <li <?php if ($page == '/catalyst/signup.php'){ echo 'class="active"'; } ?>><a href="signup.php"> <i class="icon-briefcase"></i> Sign-Up</a></li>
               <li <?php if ($page == '/catalyst/contact.php'){ echo 'class="active"'; } ?>><a href="calendar.php"><i class="icon-calendar"></i> Calendar</a></li>
            </ul>
 	  </div><!--/.nav-collapse -->

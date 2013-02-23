@@ -44,21 +44,16 @@
 
       <!-- Example row of columns -->
       <div class="row-fluid">
-        <div class="span4">
-          <h2>Sign Up for a Show</h2>
-           <p>We would love to put on a show for anyone who is interested! Please contact Jason Ge or email info@catayst4success.org for scheduling or any questions. </p>
-          <p><a class="btn" href="mailto:info@catalyst4success.org">View details &raquo;</a></p>
+              <div class="span5">
+          <h2>Press Release</h2>
+			<p> Check out our latest press release from our most recent events!</p>
+			<p><a class="btn" href="assets/catalystpressrelease1.pdf">View details &raquo;</a></p>
        </div>
-        <div class="span4">
-          <h2>Brochure</h2>
-			<p> Learn what Catalyst 4 Success is all about. Please read our brochure in order to learn more about how we can help you.</p>
-			<p><a class="btn" href="assets/brochure.pdf">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Video</h2>
-			<p> Here is a brief video showcasing a few of our experiments.</p>
-			<p><a class="btn" href="http://www.youtube.com/watch?v=FA7TD0zTeNw">Video &raquo;</a></p>
-
+              <div class="span7">
+          <h2>Mission Statement</h2>
+			<p> We will do our best to make STEM education fun by focusing on the concept of a magic show, where the members of our organization use basic chemical reactions to introduce young students to the more captivating and exciting part of science. We aim to have long-term we plan to lead a science fair as a second component of our program and to provide regular assistance to the children.</p>
+			<p>A Few Stats: Within the first one month of shows, we will have reached approximately 2000 students. By March 2013, we will be at 3000 kids from 5 schools from three different districts in under 5 weeks of performing shows.</p>
+			<p><a class="btn" href="about.php">Learn More &raquo;</a></p>
        </div>
       </div>
 

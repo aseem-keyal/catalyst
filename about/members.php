@@ -64,7 +64,7 @@
 	<div class="span4">
         <img style="float: left; padding-right: 10px;" src="assets/img/elisa.jpg" />
         <h2>Elisa Lupin</h2>
-        <h4>Vice President of Show Design</h4>
+        <h4>Director of Show Design</h4>
         <p>Elisa Lupin-Jimenez, a junior, is a rigorous worker and academic achiever at Westview High School. She is co-president of Jewish club at her school and is a member of various volunteer clubs. Outside of school she plays cello in San Diego Youth Symphony, as well as actively volunteers in her community, such as with her Girl Scout troop and at Rady Children's Hospital. In her free time she enjoys playing piano and singing at venues.</p>
     </div>
 </div>
@@ -94,7 +94,7 @@
     <div class="span4">
         <img style="float: left; padding-right: 10px;" src="assets/img/kathy.jpg" />
         <h2>Kathy Kang</h2>
-        <h4>Director of Communications</h4>
+        <h4>Director of Media Productions</h4>
         <p>Kathy Kang, a junior at Westview High School, hopes to pursue a career in the medical field. She has a passion for both music and dance, having taken piano lessons for eight years and dance lessons for thirteen. Kathy has also performed in numerous productions with the Southern California Ballet. For the past two summers, Kathy has attended ballet intensives at California State Summer School for the Arts and Marin Dance Theatre. Kathy actively participates in clubs like NFED (National Foundation for Ectodermal Dysplasias) and is also a member of Link Crew, a select group of students that helps freshmen adjust to high school.</p>
     </div>
 </div>
