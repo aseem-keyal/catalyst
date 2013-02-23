@@ -8,6 +8,11 @@
     <!--[if lt IE 7]>
         <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
     <![endif]-->
+    <script type="text/javascript" charset="utf-8">
+        $('.homepage-slider').carousel({
+              interval: 2000
+                  })
+    </script>
     <?php include("includes/navbar.php"); ?>
     <div class="container">
     <div class="container-fluid">
@@ -15,16 +20,22 @@
 	<div class="span10">
 	  <div id="homepage-slider" class="carousel slide">
 	    <div class="carousel-inner">
-	      <div class="item">
-		<img src="assets/img/fire.jpg" alt="" />
+	      <div class="active item">
+		<img src="assets/img/carousel1.jpg" alt="" />
 		<div class="carousel-caption">
-		<p>Hydrogen + Fire = Awesome</p>
+		<p>The Setup</p>
 		</div>
 	      </div>
-	      <div class="active item">
-		<img src="http://sphotos-b.xx.fbcdn.net/hphotos-ash4/486367_441521299237828_1765681476_n.jpg" alt="" />
+	      <div class="item">
+		<img src="assets/img/carousel2.jpg" alt="" />
 		<div class="carousel-caption">
-		<p>Our Team</p>
+		<p>The Execution</p>
+		</div>
+	      </div>
+	      <div class="item">
+		<img src="assets/img/carousel3.jpg" alt="" />
+		<div class="carousel-caption">
+		<p>The Result</p>
 		</div>
 	      </div>
 	    </div>

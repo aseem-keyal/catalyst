@@ -13,6 +13,7 @@
       <ul class="nav nav-tabs">
       <li><a href="#goal" data-toggle="tab">Our Goal</a></li>
       <li><a href="#members" data-toggle="tab">Our Members</a></li>
+      <li><a href="#press" data-toggle="tab">Press Release</a></li>
       </ul>
     <br>
       <div class="tab-content">
@@ -22,6 +23,9 @@
 	<div class="tab-pane" id="members">
 	  <?php include('about/members.php'); ?>
       </div> <!--End Our members tab div-->
+    <div class="tab-pane" id="press">
+        <?php include('about/pressrelease.php'); ?>
+    </div>
     </div> <!--End all tab content-->
       <?php include ("includes/footer.php"); ?>
   </body>
