@@ -11,7 +11,7 @@
     <?php include("includes/navbar.php"); ?>
     <div class="container">
       <ul class="nav nav-tabs">
-      <li><a href="#goal" data-toggle="tab">Our Goal</a></li>
+      <li class="active"><a href="#goal" data-toggle="tab">Our Goal</a></li>
       <li><a href="#members" data-toggle="tab">Our Members</a></li>
       <li><a href="#press" data-toggle="tab">Press Release</a></li>
       </ul>

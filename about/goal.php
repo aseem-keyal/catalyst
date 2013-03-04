@@ -1,12 +1,12 @@
-<img align="center" height="100" width="1500" src="assets/img/coverAbout.JPG">
+<img align="center" height="100" width="1500" src="assets/img/coverAbout.jpg">
 <br>
 <br>
-<div class="row-fluid">
-<div class="span4">
+<div class="row-fluid pagination-centered">
+<div class="span6">
             <p><a class="btn" href="assets/brochure.pdf">Brochure &raquo;</a></p>
             <p> Learn what Catalyst 4 Success is all about. Please read our brochure in order to learn more about how we can help you.</p>
 </div>
-<div class="span4">
+<div class="span6">
             <p><a class="btn" href="http://www.youtube.com/user/Catalyst4Success?feature=mhee">Video &raquo;</a></p>
             <p> Here is a brief video showcasing a few of our experiments.</p>
 </div>

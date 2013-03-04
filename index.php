@@ -14,49 +14,53 @@
                   })
     </script>
     <?php include("includes/navbar.php"); ?>
-    <div class="container">
-    <div class="container-fluid">
-      <div class="row-fluid">
-	<div class="span10">
-	  <div id="homepage-slider" class="carousel slide">
+  <div id="homepage-slider" class="carousel slide">
 	    <div class="carousel-inner">
 	      <div class="active item">
 		<img src="assets/img/carousel1.jpg" alt="" />
 		<div class="carousel-caption">
-		<p>The Setup</p>
+		<p>Creekside Elementary</p>
 		</div>
 	      </div>
 	      <div class="item">
 		<img src="assets/img/carousel2.jpg" alt="" />
 		<div class="carousel-caption">
-		<p>The Execution</p>
+		<p>Cherokee Point Elementary</p>
 		</div>
 	      </div>
 	      <div class="item">
 		<img src="assets/img/carousel3.jpg" alt="" />
 		<div class="carousel-caption">
-		<p>The Result</p>
+		<p>Park Village Elementary</p>
 		</div>
 	      </div>
 	    </div>
 	    <a class="carousel-control left" href="#homepage-slider" data-slide="prev">&lsaquo;</a>
 	    <a class="carousel-control right" href="#homepage-slider" data-slide="next">&rsaquo;</a>
 	  </div>
-	</div>
-      </div>
-
+    <div class="container">
+    <div class="container-fluid">
       <!-- Example row of columns -->
         <div class="row-fluid">
             <div class="span7">
-                <h2>Mission Statement</h2>
-                <p> We will do our best to make STEM education fun by focusing on the concept of a magic show, where the members of our organization use basic chemical reactions to introduce young students to the more captivating and exciting part of science. We aim to have long-term we plan to lead a science fair as a second component of our program and to provide regular assistance to the children.</p>
-                <p>A Few Stats: Within the first one month of shows, we will have reached approximately 2000 students. By March 2013, we will be at 3000 kids from 5 schools from three different districts in under 5 weeks of performing shows.</p>
+                <h2>Our Mission</h2>
+   <p>Catalyst for Success is a non-profit organization that aims to promote STEM education in order to inspire a new generation of scientists. We provide chemistry magic shows that consist of many cool demonstrations that present science in a fun and engaging way. In addition, we are coordinating with many schools to set up "hands on" activities where the children can try their own experiments.</p>
+                <p>Within the first five weeks we will have...
+		     <ul>
+			 <li>Reached 3000 students</li>
+				 <li>Performed for 5 schools from the San Diego, Poway, and Chula Vista Districts</li>
+		     </ul>
+		</p>
                 <p><a class="btn" href="about.php">Learn More &raquo;</a></p>
             </div>
             <div class="span5">
                 <h2>Press Release</h2>
                 <p> Check out our latest press release from our most recent events!</p>
-                <p><a class="btn" href="assets/catalystpressrelease1.pdf">View details &raquo;</a></p>
+                 <ul class="nav nav-list">
+   <li><a href="assets/catalystpressrelease2.pdf">2/22/13--1 Month: 1000 Students</a></li>
+   <li><a href="assets/catalystpressrelease1.pdf">2/1/13--Catalyst for Success Has Its First Show</a></li>
+   <li><p><a class="btn" href="about-pressrelease.php">See All &raquo;</a></p></li>
+                </ul>
             </div>
         </div>
         <?php include("includes/footer.php"); ?>
