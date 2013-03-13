@@ -57,6 +57,7 @@
                 <h2>Press Release</h2>
                 <p> Check out our latest press release from our most recent events!</p>
                  <ul class="nav nav-list">
+   <li><a href="assets/catalystpressrelease3.pdf">3/8/13--5 Weeks: 3000 Students</a></li>
    <li><a href="assets/catalystpressrelease2.pdf">2/22/13--1 Month: 1000 Students</a></li>
    <li><a href="assets/catalystpressrelease1.pdf">2/1/13--Catalyst for Success Has Its First Show</a></li>
    <li><p><a class="btn" href="about-pressrelease.php">See All &raquo;</a></p></li>

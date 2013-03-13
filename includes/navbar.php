@@ -8,7 +8,7 @@
           </a>
           <a class="brand" href="index.php">
 	 	<img src="assets/img/logo.png" alt="logo" style="height: 32px;"/>
-		Catalyst 4 Success
+		Catalyst for Success
 	  </a>
           <div class="nav-collapse">
             <ul class="nav">
